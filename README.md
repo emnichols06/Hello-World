@@ -1,2 +1,33 @@
-# Hello-World
+# My First Repository
 My first practice repository
+
+## TABLE OF CONTENTS
+- [Project Title](#project-title)
+- [Description](#description)
+- [Tools Used](#tools-used)
+- [Files Used](#files-used)
+- [How to run Program](#how-to-run-program)
+- [Additional Information](#additional-information)
+
+-----------------------------------------------------------------------------------------------------------------------------
+## Project Title
+
+Hello World! This is my first practice repository
+
+-----------------------------------------------------------------------------------------------------------------------------
+## Description
+
+I'm currently playing around with and trying to figure out how to use GitHub. This is a small practice project for me to start learning how to make, eventual, cooler repositories! :D
+
+-----------------------------------------------------------------------------------------------------------------------------
+## Tools Used
+
+-----------------------------------------------------------------------------------------------------------------------------
+## Files Used
+
+-----------------------------------------------------------------------------------------------------------------------------
+## How to run Program
+
+-----------------------------------------------------------------------------------------------------------------------------
+## Additional Information
+   
