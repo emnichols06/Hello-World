@@ -24,9 +24,15 @@ I'm currently playing around with and trying to figure out how to use GitHub. Th
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## Files Used
+I have 2 files both with images in here!
+The first is 2 images of my current interests 
+- My current favorite show
+- My favorite Pokemon
 
------------------------------------------------------------------------------------------------------------------------------
-## How to run Program
+The second is my hobby!
+- The image in the file is a Star Blanket <(it's my go to quick gift)>
+- I've made tons of other things too!
+     - 
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## Additional Information
