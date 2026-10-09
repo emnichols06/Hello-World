@@ -6,7 +6,6 @@ My first practice repository
 - [Description](#description)
 - [Tools Used](#tools-used)
 - [Files Used](#files-used)
-- [How to run Program](#how-to-run-program)
 - [Additional Information](#additional-information)
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -30,9 +29,11 @@ The first is 2 images of my current interests
 - My favorite Pokemon
 
 The second is my hobby!
-- The image in the file is a Star Blanket <(it's my go to quick gift)>
+- The image in the file is a Star Blanket <sub>(it's my go to quick gift)</sub>
 - I've made tons of other things too!
-     - 
+     - Plushies
+     - Clothes
+     - Table Runners
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## Additional Information
